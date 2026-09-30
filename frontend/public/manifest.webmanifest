@@ -1,0 +1,19 @@
+{
+  "name": "School Management & Information System",
+  "short_name": "SMIS",
+  "description": "Attendance, grades, fees and messaging for Preschool, Middle and High School.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
